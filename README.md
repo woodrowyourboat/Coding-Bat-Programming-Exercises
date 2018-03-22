@@ -2,7 +2,10 @@
 
 ## Synopsis
 
-CodingBat.com is a free site of live coding problems to build coding skill in Java and Python. This repository is an archive of the problems I've worked on the site along with my solutions for them. 
+CodingBat.com is a free site with solvable coding problems to expand and reinforce foundational coding skills for Java and Python. This repository is an archive of the problems I've worked on the site along with my solutions for them. 
+
+CodingBat's focus is the logic and concepts related to acute problem solving rather than building the entire application with multiple methods etc. 
+
 CodingBat Problems are divided into programming langauge and type of problems.
 
 ## Motivation
@@ -14,10 +17,12 @@ I began doing Python exercises on my own later on. I wanted to become familiar w
 
 ## Installation
 
-To see my solutions implemented and ran, follow the link in the code and copy and paste the solution, then run it.
+To see my solutions implemented and ran, follow the link commented above the problem's description and copy and paste the solution, finally run it.
 
 ## Tests
 
-CodingBat is modular, in that you simply develop the method to solve the problem and click run. After doing so, the site runs the code through numerous testing parameters to verify it works universally.
+CodingBat is modular, in that you simply develop the method to solve the problem and click run. 
+
+After doing so, the site runs the code through numerous testing parameters to verify it works universally.
 
 
